@@ -9,12 +9,12 @@
       "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "MALVIN-XD~B0YwiTAB#U8dC6vTMQamAejdQjH64JrsMyW-ln03O75Rkvn2CPxQ"
     },
     "MODE": {
       "description": "mode public or self",
       "required": true,
-      "value": "public"
+      "value": "self"
     },
     "ANTI_DELETE": {
       "description": "make it true for use anti delete",
@@ -29,7 +29,7 @@
     "AUTO_STATUS_REPLY": {
       "description": "make it true if you want to send message after seen status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "STATUS_READ_MSG": {
       "description": "set your status reply message",
